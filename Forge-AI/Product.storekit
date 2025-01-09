@@ -1,0 +1,213 @@
+{
+  "appPolicies" : {
+    "eula" : "",
+    "policies" : [
+      {
+        "locale" : "en_US",
+        "policyText" : "",
+        "policyURL" : ""
+      }
+    ]
+  },
+  "identifier" : "E49B4BDF",
+  "nonRenewingSubscriptions" : [
+
+  ],
+  "products" : [
+
+  ],
+  "settings" : {
+    "_failTransactionsEnabled" : false,
+    "_storeKitErrors" : [
+      {
+        "current" : null,
+        "enabled" : false,
+        "name" : "Load Products"
+      },
+      {
+        "current" : null,
+        "enabled" : false,
+        "name" : "Purchase"
+      },
+      {
+        "current" : null,
+        "enabled" : false,
+        "name" : "Verification"
+      },
+      {
+        "current" : null,
+        "enabled" : false,
+        "name" : "App Store Sync"
+      },
+      {
+        "current" : null,
+        "enabled" : false,
+        "name" : "Subscription Status"
+      },
+      {
+        "current" : null,
+        "enabled" : false,
+        "name" : "App Transaction"
+      },
+      {
+        "current" : null,
+        "enabled" : false,
+        "name" : "Manage Subscriptions Sheet"
+      },
+      {
+        "current" : null,
+        "enabled" : false,
+        "name" : "Refund Request Sheet"
+      },
+      {
+        "current" : null,
+        "enabled" : false,
+        "name" : "Offer Code Redeem Sheet"
+      }
+    ]
+  },
+  "subscriptionGroups" : [
+    {
+      "id" : "7BC058F4",
+      "localizations" : [
+
+      ],
+      "name" : "weekly",
+      "subscriptions" : [
+        {
+          "adHocOffers" : [
+
+          ],
+          "codeOffers" : [
+
+          ],
+          "displayPrice" : "2.99",
+          "familyShareable" : false,
+          "groupNumber" : 1,
+          "internalID" : "116B3C2D",
+          "introductoryOffer" : {
+            "internalID" : "24DFB3D7",
+            "paymentMode" : "free",
+            "subscriptionPeriod" : "P1W"
+          },
+          "localizations" : [
+            {
+              "description" : "150 daily generations ",
+              "displayName" : "Basic",
+              "locale" : "en_US"
+            }
+          ],
+          "productID" : "subscription.weekly.basic",
+          "recurringSubscriptionPeriod" : "P1W",
+          "referenceName" : "subscription.weekly.basic",
+          "subscriptionGroupID" : "7BC058F4",
+          "type" : "RecurringSubscription",
+          "winbackOffers" : [
+
+          ]
+        },
+        {
+          "adHocOffers" : [
+
+          ],
+          "codeOffers" : [
+
+          ],
+          "displayPrice" : "5.99",
+          "familyShareable" : false,
+          "groupNumber" : 1,
+          "internalID" : "FC51AA2A",
+          "introductoryOffer" : {
+            "internalID" : "178041AE",
+            "paymentMode" : "free",
+            "subscriptionPeriod" : "P1W"
+          },
+          "localizations" : [
+            {
+              "description" : "250 daily generations",
+              "displayName" : "Professional",
+              "locale" : "en_US"
+            }
+          ],
+          "productID" : "subscription.weekly.professional",
+          "recurringSubscriptionPeriod" : "P1W",
+          "referenceName" : "subscription.weekly.professional",
+          "subscriptionGroupID" : "7BC058F4",
+          "type" : "RecurringSubscription",
+          "winbackOffers" : [
+
+          ]
+        }
+      ]
+    },
+    {
+      "id" : "D2ACDD80",
+      "localizations" : [
+
+      ],
+      "name" : "yearly",
+      "subscriptions" : [
+        {
+          "adHocOffers" : [
+
+          ],
+          "codeOffers" : [
+
+          ],
+          "displayPrice" : "29.99",
+          "familyShareable" : false,
+          "groupNumber" : 1,
+          "internalID" : "CE5CF057",
+          "introductoryOffer" : null,
+          "localizations" : [
+            {
+              "description" : "150 daily genertations ",
+              "displayName" : "Basic",
+              "locale" : "en_US"
+            }
+          ],
+          "productID" : "subscription.yearly.basic",
+          "recurringSubscriptionPeriod" : "P1Y",
+          "referenceName" : "subscription.yearly.basic",
+          "subscriptionGroupID" : "D2ACDD80",
+          "type" : "RecurringSubscription",
+          "winbackOffers" : [
+
+          ]
+        },
+        {
+          "adHocOffers" : [
+
+          ],
+          "codeOffers" : [
+
+          ],
+          "displayPrice" : "89.99",
+          "familyShareable" : false,
+          "groupNumber" : 1,
+          "internalID" : "06CC5D03",
+          "introductoryOffer" : null,
+          "localizations" : [
+            {
+              "description" : "250 generations daily",
+              "displayName" : "Professional",
+              "locale" : "en_US"
+            }
+          ],
+          "productID" : "subscription.yearly.professional",
+          "recurringSubscriptionPeriod" : "P1Y",
+          "referenceName" : "subscription.yearly.professional",
+          "subscriptionGroupID" : "D2ACDD80",
+          "type" : "RecurringSubscription",
+          "winbackOffers" : [
+
+          ]
+        }
+      ]
+    }
+  ],
+  "version" : {
+    "major" : 4,
+    "minor" : 0
+  }
+}

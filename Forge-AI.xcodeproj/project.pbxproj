@@ -44,22 +44,9 @@
 		5CC1A7A42CC6FE5700050C36 /* Forge-AIUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Forge-AIUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
-/* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
-		5CE577522CCFC521006D5ECD /* Exceptions for "Forge-AI" folder in "Forge-AI" target */ = {
-			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
-			membershipExceptions = (
-				Info.plist,
-			);
-			target = 5CC1A7892CC6FE5500050C36 /* Forge-AI */;
-		};
-/* End PBXFileSystemSynchronizedBuildFileExceptionSet section */
-
 /* Begin PBXFileSystemSynchronizedRootGroup section */
 		5CC1A78C2CC6FE5500050C36 /* Forge-AI */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
-			exceptions = (
-				5CE577522CCFC521006D5ECD /* Exceptions for "Forge-AI" folder in "Forge-AI" target */,
-			);
 			path = "Forge-AI";
 			sourceTree = "<group>";
 		};
