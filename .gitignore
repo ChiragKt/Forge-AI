@@ -1,0 +1,17 @@
+# Xcode
+DerivedData/
+*.xcworkspace
+xcuserdata/
+*.xcuserstate
+*.swp
+*.lock
+
+# Build artifacts
+build/
+*.app
+*.ipa
+
+# CocoaPods
+Pods/
+Podfile.lock
+
